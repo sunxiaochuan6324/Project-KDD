@@ -1,4 +1,4 @@
-# KDD 数据挖掘大作业
+# KDD 数据挖掘比赛
 
 ## Benchmark 程序
 
@@ -22,7 +22,7 @@
 	
 	```
 	#当前工作目录 
-	CWD = "/home/jianxiang/pycharmSpace/KDD_benchmark"
+	CWD = "C:\Users\ASUS\Desktop\KDD_benchmark"
 	``` 
 3. 进入model_trainer文件夹，使用以下命令运行程序：
 
